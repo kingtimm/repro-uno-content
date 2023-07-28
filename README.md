@@ -1,3 +1,8 @@
+# Reproduction for some behavior when combining uno and content
+
+See `content/index.md` for more information
+
+
 # Content v2 Minimal Starter
 
 Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
